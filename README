@@ -37,6 +37,63 @@ https://aphyr.com/posts/342-typing-the-technical-interview
 
 Applicative Functor 的数学模型: https://openaccess.city.ac.uk/id/eprint/1141/1/Constructors.pdf
 
+haskell编译相关: https://docs.google.com/presentation/d/1g_-bHgeD7lV4AYybnvjgkWa9GKuP6QFUyd26zpqXssQ/mobilepresent?slide=id.gb337138973_0_388
+
+软件基础: https://coq-zh.github.io/SF-zh/
+
+https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
+
+https://retro-freedom.nz/haskell-magic-hylomorphisms-and-divide-and-conquer.html
+
+https://two-wrongs.com/the-what-are-monads-fallacy.html
+
+函数式编程历史: https://zhuanlan.zhihu.com/p/24648375
+
+https://thzt.github.io/2019/02/26/algebraic-effects/
+
+functional data structures for scheme: https://github.com/ijp/pfds 
+
+范畴论高速入门: http://www.cs.nott.ac.uk/~pszgmh/cat.html
+
+http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf 
+
+http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf
+
+https://blog.poisson.chat/posts/2019-10-27-continuation-submonads.html
+
+https://fsharpforfunandprofit.com/rop/
+
+https://www.andres-loeh.de/LambdaPi/
+
+http://kmcallister.github.io/talks/rust/2015-dependent-types/slides.html
+
+https://bitemyapp.com/blog/why-are-types-useful/
+
+组合子逻辑: http://codex.wordpress.org.cn/%E7%BB%84%E5%90%88%E5%AD%90%E9%80%BB%E8%BE%91?tdsourcetag=s_pctim_aiomsg
+
+http://okmij.org/ftp/Scheme/monad-in-Scheme.html
+
+https://www.mew.org/~kazu/proj/red-black-tree/
+
+http://matt.might.net/articles/red-black-delete/
+
+http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+
+https://people.inf.elte.hu/divip/AgdaTutorial/Index.html
+
+
+Parser Combinator 经典论文 : http://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf 
+
+https://retro-freedom.nz/haskell-magic-making-hylos-faster.html
+
+https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping
+
+https://spin.atomicobject.com/2012/12/08/minikanren-in-haskell/
+
+https://cs.uwaterloo.ca/~plragde/flaneries/TYR/
+
+https://cs.uwaterloo.ca/~plragde/flaneries/LACI/
+
 
 
 
